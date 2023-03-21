@@ -1,0 +1,9 @@
+├── .gitignore
+├── Cargo.lock
+├── Cargo.toml
+├── directory_structure.txt
+├── display_rust_project_structure.py
+├── src
+│   └── lib.rs
+└── tests
+    └── lib.rs
